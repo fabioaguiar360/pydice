@@ -1,4 +1,4 @@
-# pydice
+# Pydice
 It's a eletronic dice made with python
 
 This project it's just to learn python/django
