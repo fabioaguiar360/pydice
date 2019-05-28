@@ -1,5 +1,10 @@
 <!doctype html>
 <html lang="en">
+<script>
+    function again(){
+        document.location.reload(true);
+    }
+</script>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -10,5 +15,6 @@
 <body>
 <h1>Eletronic Dice</h1>
 <h2>The e-dice returned: {{number}}</h2>
+<button onclick="again()">Click here to try again</button>
 </body>
 </html>
