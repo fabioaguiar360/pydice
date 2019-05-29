@@ -8,3 +8,5 @@ It's a simple eletronic dice
 Final version:
 The app have CSS, images to show the randomic naumber to the dice and is totaly functional.
 LET'S GO TO NEXT :)
+
+NOTE: Feew free to download and modify the projetc. It's just for study purposes.
